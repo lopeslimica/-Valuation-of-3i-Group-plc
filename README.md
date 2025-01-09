@@ -27,3 +27,7 @@ This project focuses on the valuation of investment products for 3i Group plc, a
 2) Understanding Market Dynamics: Learn to interpret market trends and their implications for investment products.
 3) Strategic Investment Decision-Making: Develop the ability to recommend investment actions based on comprehensive valuation assessments.
 4) Risk and Sensitivity Analysis: Explore the importance of risk metrics like modified duration and implied volatility in understanding the sensitivity of investment products to external changes.
+   
+Path to follow Word document ----> Excel sheet ------> Presentation
+
+Disclaimer This is academic report for educational purpose only and do not give any sort of recommendation .
